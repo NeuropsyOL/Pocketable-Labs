@@ -1,0 +1,10 @@
+- decide which channels to correlate
+	- max correlation is interesting: try out all channel combinations
+
+- add legends
+- change colors
+- correlation does not need to be in figure
+- device name does not need to be in title
+- title for both columns
+
+- longer recording

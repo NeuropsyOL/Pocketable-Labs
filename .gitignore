@@ -1,0 +1,44 @@
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+*.csv
+*.bdf
+*.csv#
+*.asv 
+*~$*
+diskcache/
+brainstorm3/
+effect_size_toolbox/
+
+# Matlab lock files
+*.m~
+*.fuse*
+*.asv
+
+# Experiments folder
+.Rproj.user
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+AndroidLogos/
+
+
+*.png
+*.fig
+
